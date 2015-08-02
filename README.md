@@ -3,48 +3,59 @@ impress.js
 
 It's a presentation framework based on the power of CSS3 transforms and 
 transitions in modern browsers and inspired by the idea behind prezi.com.
-
+它是基于CSS3的问的文档展示框架，运行在现代的浏览器，其idea参考 prezi.com。
 **WARNING**
+**警告**
 
 impress.js may not help you if you have nothing interesting to say ;)
-
+如果你没有什么感兴趣的东西要说，impress.js可能帮不到你 ;)
 
 HOW TO USE IT
 ---------------
+怎么使用它
+---------------
 
 [Use the source](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;)
-
+[源代码](http://github.com/bartaz/impress.js/blob/master/index.html), Luke ;)
 If you have no idea what I mean by that, or you just clicked that link above and got 
 very confused by all these strange characters that got displayed on your screen,
 it's a sign, that impress.js is not for you.
-
+如果你不知道我在说什么，或者你仅仅是点开链接并对这些字符感到困惑，那么说明impress.js不适合你。
 Sorry.
+对不起。
 
 Fortunately there are some guys on GitHub that got quite excited with the idea of building
 editing tool for impress.js. Let's hope they will manage to do it.
-
+幸运的是有几个人非常有兴趣为impress.js创建编辑工具。让我们期待他们的完成。
 
 
 EXAMPLES AND OTHER LEARNING RESOURCES
 ---------------------------------------
+例子和其他的学习资源
+---------------------------------------
 
 ### Official demo
+### 官方 demo
 
 [impress.js demo](http://bartaz.github.com/impress.js) by [@bartaz](http://twitter.com/bartaz)
 
 ### Examples and demos
+### 例子和demos
 
 More examples and demos can be found on [Examples and demos wiki page](http://github.com/bartaz/impress.js/wiki/Examples-and-demos).
 
 Feel free to add your own example presentations (or websites) there.
+更多的例子和demos在[Examples and demos wiki page](http://github.com/bartaz/impress.js/wiki/Examples-and-demos).
+你可以把你的例子（或网站）添加到这里来。
 
 ### Other tutorials and learning resources
+### 其他的教程和学习资源
 
 If you want to learn even more there is a [list of tutorials and other learning resources](https://github.com/bartaz/impress.js/wiki/impress.js-tutorials-and-other-learning-resources)
 on the wiki, too.
 
 There is also a book available about [Building impressive presentations with impress.js](http://www.packtpub.com/building-impressive-presentations-with-impressjs/book) by Rakhitha Nimesh Ratnayake.
-
+zh
 
 WANT TO CONTRIBUTE?
 ---------------------
